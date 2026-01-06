@@ -38,6 +38,6 @@ This project predicts graduate school admission chances using a neural network i
 
 ## Files
 
-- `admissions_model.ipynb` – Main notebook with code and plots
+- `admissions.ipynb` – Main notebook with code and plots
 - `.gitignore` – Ensures CSV file is not tracked by Git
 - `README.md` – Project description
